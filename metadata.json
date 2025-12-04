@@ -1,0 +1,5 @@
+{
+  "name": "The Asymptote: 0 to c",
+  "description": "A relativistic physics visualization simulating the journey from standstill to near-light speed, demonstrating time dilation, length contraction, and the Doppler effect.",
+  "requestFramePermissions": []
+}
